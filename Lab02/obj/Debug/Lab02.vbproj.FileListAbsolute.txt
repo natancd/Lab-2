@@ -1,0 +1,12 @@
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab02\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab02\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab02\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab02\Lab02\Lab02\bin\Debug\Lab02.xml
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab02\Lab02\Lab02\obj\Debug\Lab02.vbprojAssemblyReference.cache
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab02\Lab02\Lab02\obj\Debug\Lab02.frmSemesterGrades.resources
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab02\Lab02\Lab02\obj\Debug\Lab02.Resources.resources
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab02\Lab02\Lab02\obj\Debug\Lab02.vbproj.GenerateResource.cache
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab02\Lab02\Lab02\obj\Debug\Lab02.vbproj.CoreCompileInputs.cache
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab02\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab02\Lab02\Lab02\obj\Debug\Lab02.xml
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab02\Lab02\Lab02\obj\Debug\Lab02.pdb
